@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _1.Discriminant
+namespace _1.DiscriminantOfTheQuadraticRoot
 {
 	class Program
 	{
